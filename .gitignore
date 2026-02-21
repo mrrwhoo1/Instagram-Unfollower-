@@ -1,0 +1,29 @@
+# --- Python Virtual Environments ---
+venv/
+env/
+.venv/
+.env/
+
+# --- Secrets & Configuration ---
+config.json
+processed_unfollows.txt
+__pycache__/
+*.pyc
+*.log
+
+# --- Python Cache (Junk files) ---
+__pycache__/
+*.pyc
+
+# --- Instagram Data (Privacy) ---
+*.json
+!config.example.json
+
+# Ignore session files
+session-*
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
+
+
