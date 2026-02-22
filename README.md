@@ -133,7 +133,7 @@ Clear all other selected boxes and scroll down and check the boxes for **"Connec
 
 *Wait for the email from Instagram (usually takes 5-10 minutes).*
 
-**4. Place Files in Folder**
+**6. Place Files in Folder**
 Download the ZIP file from the email and extract it.
 Find the folder `connections` -> `followers_and_following`.
 Copy these two files into this project folder (where `main.py` is):
