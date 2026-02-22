@@ -141,7 +141,7 @@ Copy these two files into this project folder (where `main.py` is):
 * `following.json`
 
 <div align="center">
-  <img src="assets/step_4_1.png" alt="Copy these file to our project" width="600">
+  <img src="assets/step11.png" alt="Copy these file to our project" width="600">
 </div>
 
 </details>
@@ -161,7 +161,7 @@ In the panel that opens, click the **Application** tab at the top (click `>>` if
 Find the rows named `sessionid` and `csrftoken`. Double-click the **Value** column for each and copy the long string.
 
 <div align="center">
-  <img src="assets/step_5_1.png" alt="Copy Session ID and CSRF" width="600">
+  <img src="assets/step12.png" alt="Copy Session ID and CSRF" width="600">
 </div>
 
 </details>
