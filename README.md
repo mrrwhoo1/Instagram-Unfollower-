@@ -146,8 +146,9 @@ Copy these two files into this project folder (where `main.py` is):
 
 **7. Get unfollowers Extention**
 -Head to chromestore and search for IGUnfollowTool or tap the link [Extention](https://chromewebstore.google.com/detail/igunfollowtool/bepipmjodhjmmdhlahhpalbepooemcii?utm_source=item-share-cb&pli=1)
+
 <div align="center">
-   <img src="assests/step13.png" alt="Click install" width="600">
+   <img src="assets/step13.png" alt="Click install" width="600">
 </div>
 
 **8. Download unfollowers json file**
