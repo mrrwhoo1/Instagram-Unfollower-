@@ -82,51 +82,51 @@ To keep your account safe, we don't "scrape" your followers. We use the official
 Go to **Settings** -> **Account Center** -> **Your Information & Permissions** -> **Export Your Information**.
 
 <div align="center">
-  <img src="assets/step_3_1.png" alt="Instagram Account Center" width="600">
+  <img src="assets/step1.png" alt="Instagram Account Center" width="600">
 </div>
 
 <div align="center">
-  <img src="assets/step_3_2.png" alt="Instagram Export Information" width="600">
+  <img src="assets/step2.png" alt="Instagram Export Information" width="600">
 </div>
 
 **2. Choose Format (IMPORTANT)**
 Select **"Export to device"**. Under the "Format" option, you **MUST** select **JSON**. Do not select HTML.
 
 <div align="center">
-  <img src="assets/step_3_3.png" alt="Instagram Export to Device" width="600">
+  <img src="assets/step3.png" alt="Instagram Export to Device" width="600">
 </div>
 
 <div align="center">
-  <img src="assets/step_3_4.png" alt="Instagram Create Export" width="600">
+  <img src="assets/step4.png" alt="Instagram Create Export" width="600">
 </div>
 
 <div align="center">
-  <img src="assets/step_3_7.png" alt="Export Format" width="600">
+  <img src="assets/step5.png" alt="Export Format" width="600">
 </div>
 
 <div align="center">
-  <img src="assets/step_3_8.png" alt="Export Format JSON" width="600">
+  <img src="assets/step_6.png" alt="Export Format JSON" width="600">
 </div>
 
 **3. Select Customize Information**
 Clear all other selected boxes and scroll down and check the boxes for **"Connections"**. Then select **"Followers and following"**.
 
 <div align="center">
-  <img src="assets/step_3_5.png" alt="Select Followers Option" width="600">
+  <img src="assets/step7.png" alt="Select Followers Option" width="600">
 </div>
 
 <div align="center">
-  <img src="assets/step_3_6.png" alt="Select Followers and Following" width="600">
+  <img src="assets/step8.png" alt="Select Followers and Following" width="600">
 </div>
 
 **4. Set Date Range to All time**
 
 <div align="center">
-  <img src="assets/step_3_9.png" alt="Export Date Range" width="600">
+  <img src="assets/step9.png" alt="Export Date Range" width="600">
 </div>
 
 <div align="center">
-  <img src="assets/step_3_10.png" alt="Date Range All Time" width="600">
+  <img src="assets/step10.png" alt="Date Range All Time" width="600">
 </div>
 
 **5. Save and Create the Report**
