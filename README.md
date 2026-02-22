@@ -144,6 +144,20 @@ Copy these two files into this project folder (where `main.py` is):
   <img src="assets/step11.png" alt="Copy these file to our project" width="600">
 </div>
 
+**7. Get unfollowers Extention**
+-Head to chromestore and search for IGUnfollowTool or tap the link [Extention](https://chromewebstore.google.com/detail/igunfollowtool/bepipmjodhjmmdhlahhpalbepooemcii?utm_source=item-share-cb&pli=1)
+<div align="center">
+   <img src="assests/step13.png" alt="Click install" width="600">
+</div>
+
+**8. Download unfollowers json file**
+-after installing it head to instagram (profile page) and click on the extention.
+-once its done getting info click on download and place the json file you will get in the same directory as the following and followers list.
+
+<div align="center">
+   <img src="assets/step14.png" alt="Download list" width="600">
+</div>
+
 </details>
 
 <details>
